@@ -1,6 +1,6 @@
 owner=520011331189866498
 prefix=5
-game=Break | 5play
+game=Type | 5play
 stayinchannel=true
 songinstatus=false
 token=NTM3NjMwMzQwMjg2NjQ0MjMy.DyoeNg.UOX1vVIbiIDGNpus-HBnXfH8Cbs
